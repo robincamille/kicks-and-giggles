@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # @robincamille - for @mechnicalpoe
+# Tutorial: http://emerging.commons.gc.cuny.edu/2013/10/making-twitter-bot-python-tutorial/
 
 # Tweets lines from Poe's Tell-Tale Heart, Raven, and Fall of the House of Usher.
 # Must be running all the time, e.g. on a Raspberry Pi, but would be better 

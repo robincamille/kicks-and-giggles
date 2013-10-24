@@ -1,7 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# tweets lines from Poe's Tell-Tale Heart, Raven, and Fall of the House of Usher
+# @robincamille - for @mechnicalpoe
+
+# Tweets lines from Poe's Tell-Tale Heart, Raven, and Fall of the House of Usher.
+# Must be running all the time, e.g. on a Raspberry Pi, but would be better 
+# if configured to run as a cron task.
 
 import tweepy, time
 
